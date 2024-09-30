@@ -29,13 +29,16 @@
 </picture>
 
 ## 🎓Career certification
-###### Once you complete all lessons, you will be eligible to register for the Data Analyst Associate certificate that requires skills in data management and exploratory analysis with efficiency. 
+##### Once you complete all lessons, you will be eligible to register for the Data Analyst Associate certificate that requires skills in data management and exploratory analysis with efficiency. 
 
-###### 2 test required for the exam. The maximum hour spent in total is 6 hours. I would say that this is the best part of this pathway
+##### 2 test required for the exam. The maximum hour spent in total is 6 hours. I would say that this is the best part of this pathway
 
-###### The final exam is a bit tricky and deals with your understanding of designing validated data and metric performance. There is more than one way to query the results in some questions. Finally, you will get this certification after you complete the lessons and pass the exam. 
-
-
+#####  The final exam is quite tricky and deals with your understanding of designing validated data and metric performance. There is more than one way to query the results in some questions. Finally, you will get this certification after you complete the lessons and pass the exam. 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Data%20Analyst%20Associate%20certification.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Data%20Analyst%20Associate%20certification.png">
+  <img alt="certification2." src="https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Data%20Analyst%20Associate%20certification.png">
+</picture>
 
 
 
