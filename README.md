@@ -36,9 +36,9 @@
 ###### The final exam is a bit tricky and deals with your understanding of designing validated data and metric performance. There is more than one way to query the results in some questions. Finally, you will get this certification after you complete the lessons and pass the exam. 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://www.datacamp.com/statement-of-accomplishment/track/3a8df8f832395a0f368e58f0b1e172cd7eb23f34?raw=1](https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Analyst%20in%20SQL%20certification.png)">
- <source media="(prefers-color-scheme: light)" srcset="[https://www.datacamp.com/statement-of-accomplishment/track/3a8df8f832395a0f368e58f0b1e172cd7eb23f34?raw=1](https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Analyst%20in%20SQL%20certification.png)">
- <img alt="certification2" src="[https://www.datacamp.com/statement-of-accomplishment/track/3a8df8f832395a0f368e58f0b1e172cd7eb23f34?raw=1](https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Analyst%20in%20SQL%20certification.png)">
+ <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Data%20Analyst%20Associate%20certification.png)">
+ <source media="(prefers-color-scheme: light)" srcset="[https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Data%20Analyst%20Associate%20certification.png)">
+ <img alt="certification2" src="[https://github.com/Thanchanokk-p/Datacamp-data-analyst-associate/blob/main/Data%20Analyst%20Associate%20certification.png)">
 </picture>
 
 
